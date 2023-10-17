@@ -1,6 +1,6 @@
 # tugas2-pbo-ilma-nur
 Tugas 2 Pemrograman Berorientasi Objek - Implementasi Inheritance
-<p>Nama : Ilma Nur H </p>
+<p>Nama : Ilma Nur Hidayah </p>
 <p>NIM : 22091397064 </p>
 <p>Kelas : Manajemen Informatika 2022B</p><br>
 
