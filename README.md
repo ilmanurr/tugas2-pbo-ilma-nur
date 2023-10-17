@@ -1,6 +1,8 @@
 # tugas2-pbo-ilma-nur
 Tugas 2 Pemrograman Berorientasi Objek Ilma Nur H 22091397064 MI2022B - Implementasi Inheritance
 
-<h1>Diagram UML Bangun Datar</h1>
+<h3>Diagram UML Bangun Datar</h3>
+<img src="DIAGRAM UML/uml bangun datar.jpg">
 
-<h1>Diagram UML Pegawai</h1>
+<h3>Diagram UML Pegawai</h3>
+<img src="DIAGRAM UML/uml pegawai.jpg">
