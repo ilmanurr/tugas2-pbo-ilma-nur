@@ -4,9 +4,7 @@ Tugas 2 Pemrograman Berorientasi Objek - Implementasi Inheritance
 <p>NIM : 22091397064 </p>
 <p>Kelas : Manajemen Informatika 2022B</p><br>
 
-<a href="http://192.168.43.61/php-program/bangundatar2.php">
-  http://localhost/php-program/bangundatar2.php
-http://localhost/php-program/bangundatar2.php
+<p>Website Kalkulator Bangun Datar<a href="http://localhost/php-program/bangundatar2.php"><\p>
 
 <h3>Diagram UML Bangun Datar</h3>
 <img src="DIAGRAM UML/uml bangun datar.jpg">
